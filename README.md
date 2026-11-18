@@ -1,2 +1,2 @@
-# nanhtauk-prediction-market
+# khanthman-grok-prediction-market
 Prediction Market for Myanmar
